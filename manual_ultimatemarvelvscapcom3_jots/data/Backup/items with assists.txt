@@ -1,0 +1,3284 @@
+[
+	{
+		"count":1,
+		"name": "Akuma (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Akuma (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Akuma (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Amaterasu (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		
+	{
+		"count":1,
+		"name": "Amaterasu (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Amaterasu (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Arthur (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	
+	{
+		"count":1,
+		"name": "Arthur (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Arthur (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Asura (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	
+	{
+		"count":1,
+		"name": "Asura (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Asura (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Batsu (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Batsu (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Batsu (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Bishop (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bishop (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Bishop (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "C. Viper (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "C. Viper (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "C.Viper (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Cammy (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cammy (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Cammy (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain America (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain America (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain America (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Commando (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Commando (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Commando (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Marvel (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Marvel (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Marvel (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Carnage (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Carnage (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Carnage (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Charlie (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Charlie (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Charlie (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chris (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (S.T.A.R.S) (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (S.T.A.R.S) (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (S.T.A.R.S) (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chun-Li (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chun-Li (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chun-Li (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Clea (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Clea (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Clea (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Colossus (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Colossus (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Colossus (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Cyclops (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Cyclops (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Cyclops (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dan (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dan (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dan (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dante (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (DMC1) (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (DMC1) (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (DMC1) (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Deadpool (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Deadpool (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Deadpool (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Doctor Doom (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Doctor Doom (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Doctor Doom (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Doctor Strange (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Doctor Strange (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Doctor Strange (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Dormammu (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dormammu (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dormammu (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Evil Ryu (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Evil Ryu (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Evil Ryu (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Felicia (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Felicia (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Felicia (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Firebrand (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Firebrand (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Firebrand (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Frank West (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frank West (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Frank West (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Gambit (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Gambit (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Gambit (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Ghost Rider (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ghost Rider (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ghost Rider (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Gloria (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Gloria (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Gloria (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Guile (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Guile (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Guile (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Haggar (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Haggar (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Haggar (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Hawkeye (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hawkeye (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hawkeye (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hinata (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hinata (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hinata (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},						{
+		"count":1,
+		"name": "Hsien-Ko (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hsien-Ko (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hsien-Ko (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Hulk (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hulk (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hulk (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Hunk (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hunk (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hunk (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Iceman (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iceman (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iceman (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Iron Fist (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Iron Fist (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iron Fist (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Iron Man (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iron Man (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iron Man (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Jake (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jake (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jake (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Jean Grey (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jean Grey (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jean Grey (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Jill (Alpha Assist) Arcade Key",
+		"category": ["DLC Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Jill (Beta Assist) Arcade Key",
+		"category": ["DLC Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jill (Gamma Assist) Arcade Key",
+		"category": ["DLC Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Jill (S.T.A.R.S) (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jill (S.T.A.R.S) (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jill (S.T.A.R.S) (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Jon Talbain (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jon Talbain (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jon Talbain (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Ken (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ken (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ken (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "King Thor (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "King Thor (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "King Thor (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Krauser (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Krauser (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Krauser (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},{
+		"count":1,
+		"name": "Lilith (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Lilith (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Lilith (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "M.O.D.O.K (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "M.O.D.O.K (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "M.O.D.O.K (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "M. Bison (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "M. Bison (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "M. Bison (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Magneto (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Magneto (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Magneto (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Monster Hunter (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Monster Hunter (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Monster Hunter (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Moonstone (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Moonstone (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Moonstone (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Morrigan (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Morrigan (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Morrigan (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Nemesis T-Type (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nemesis T-Type (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Nemesis T-Type (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Nova (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nova (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Nova (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Orange Hulk (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Orange Hulk (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Orange Hulk (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Phoenix (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Phoenix and Maya (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix and Maya (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix and Maya (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Phoenix Wright (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Phoenix Wright (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix Wright (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Psylocke (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Psylocke (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Psylocke (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Rashid (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Rashid (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Rashid (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Red She-Hulk (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Red She-Hulk (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Red She-Hulk (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Ryu (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ryu (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ryu (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Rocket Raccoon (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Rocket Raccoon (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Rocket Raccoon (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Sakura (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sakura (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sakura (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Sentinel (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sentinel (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sentinel (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Sentinel (MVC2) (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sentinel (MVC2) (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sentinel (MVC2) (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Servebot (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Servebot (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Servebot (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Shadow Lady (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shadow Lady (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shadow Lady (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "She-Hulk (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "She-Hulk (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "She-Hulk (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Sherry (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sherry (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sherry (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Shin Akuma Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shocker (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shocker (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shocker (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Shuma-Gorath (Alpha Assist) Arcade Key",
+		"category": ["DLC Arcade Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shuma-Gorath (Beta Assist) Arcade Key",
+		"category": ["DLC Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shuma-Gorath (Gamma Assist) Arcade Key",
+		"category": ["DLC Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Spencer (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spencer (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spencer (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Spider-Gwen (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spider-Gwen (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spider-Gwen (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Spider-Man (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spider-Man (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spider-Man (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Stranger (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Stranger (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Stranger (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Strider 2099 (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Strider 2099 (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Strider 2099 (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Strider Hiryu (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Strider Hiryu (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Strider Hiryu (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Storm (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Storm (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Storm (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Super-Skrull (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Super-Skrull (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Super-Skrull (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Taskmaster (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Taskmaster (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Taskmaster (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Thanos (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Thanos (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Thanos (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "The Thing (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "The Thing (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "The Thing (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Thor (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Thor (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Thor (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Trish (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Trish (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Trish (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Tron Bonne (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tron Bonne (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Tron Bonne (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "U.S. Agent (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "U.S. Agent (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "U.s. Agent (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ultron (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ultron (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ultron (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Venom (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Venom (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Venom (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vergil (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (DMC5) (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (DMC5) (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (DMC5) (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Viewtiful Joe (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vietiful Joe (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vietiful Joe (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wesker (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wesker (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wesker (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Wesker (S.T.A.R.S) (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wesker (S.T.A.R.S) (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wesker (S.T.A.R.S) (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Wolverine (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wolverine (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wolverine (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Wolverine (Laura) (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wolverine (Laura) (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wolverine (Laura (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "X (Alpha Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "X (Beta Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "X (Gamma Assist) Arcade Key",
+		"category": ["Modded Arcade"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "X-23 (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "X-23 (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "X-23 (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zero (Alpha Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Zero (Beta Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Zero (Gamma Assist) Arcade Key",
+		"category": ["Base Arcade"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Akuma (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Akuma (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Akuma (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Amaterasu (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		
+	{
+		"count":1,
+		"name": "Amaterasu (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Amaterasu (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Arthur (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	
+	{
+		"count":1,
+		"name": "Arthur (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Arthur (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Asura (Alpha Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	
+	{
+		"count":1,
+		"name": "Asura (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Asura (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Batsu (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Batsu (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Batsu (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Bishop (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bishop (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Bishop (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "C. Viper (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "C. Viper (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "C.Viper (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Cammy (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cammy (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Cammy (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain America (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain America (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain America (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Commando (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Commando (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Commando (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Marvel (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Marvel (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Captain Marvel (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Carnage (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Carnage (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Carnage (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Charlie (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Charlie (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Charlie (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chris (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (S.T.A.R.S) (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (S.T.A.R.S) (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chris (S.T.A.R.S) (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chun-Li (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chun-Li (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Chun-Li (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Clea (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Clea (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Clea (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Colossus (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Colossus (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Colossus (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Cyclops (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Cyclops (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Cyclops (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dan (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dan (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dan (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dante (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (DMC1) (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (DMC1) (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dante (DMC1) (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Deadpool (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Deadpool (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Deadpool (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Doctor Doom (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Doctor Doom (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Doctor Doom (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Doctor Strange (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Doctor Strange (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Doctor Strange (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Dormammu (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dormammu (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Dormammu (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Evil Ryu (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Evil Ryu (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Evil Ryu (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Felicia (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Felicia (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Felicia (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Firebrand (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Firebrand (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Firebrand (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Frank West (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frank West (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Frank West (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Gambit (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Gambit (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Gambit (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Ghost Rider (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ghost Rider (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ghost Rider (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Gloria (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Gloria (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Gloria (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Guile (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Guile (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Guile (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Haggar (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Haggar (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Haggar (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Hawkeye (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hawkeye (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hawkeye (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hinata (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hinata (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hinata (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Hsien-Ko (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hsien-Ko (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hsien-Ko (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Hulk (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hulk (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hulk (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Hunk (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hunk (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Hunk (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Iceman (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iceman (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iceman (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Iron Fist (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Iron Fist (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iron Fist (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Iron Man (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iron Man (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Iron Man (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Jake (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jake (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jake (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Jean Grey (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jean Grey (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jean Grey (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Jill (Alpha Assist) Training Key",
+		"category": ["DLC Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Jill (Beta Assist) Training Key",
+		"category": ["DLC Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jill (Gamma Assist) Training Key",
+		"category": ["DLC Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Jill (S.T.A.R.S) (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jill (S.T.A.R.S) (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jill (S.T.A.R.S) (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Jon Talbain (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jon Talbain (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Jon Talbain (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Ken (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ken (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ken (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "King Thor (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "King Thor (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "King Thor (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Krauser (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Krauser (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Krauser (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},{
+		"count":1,
+		"name": "Lilith (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Lilith (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Lilith (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "M.O.D.O.K (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "M.O.D.O.K (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "M.O.D.O.K (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "M. Bison (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "M. Bison (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "M. Bison (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Magneto (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Magneto (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Magneto (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Monster Hunter (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Monster Hunter (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Monster Hunter (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Moonstone (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Moonstone (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Moonstone (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Morrigan (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Morrigan (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Morrigan (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Nemesis T-Type (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nemesis T-Type (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Nemesis T-Type (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Nova (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nova (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Nova (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Orange Hulk (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Orange Hulk (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Orange Hulk (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Phoenix (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Phoenix and Maya (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix and Maya (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix and Maya (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},			{
+		"count":1,
+		"name": "Phoenix Wright (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Phoenix Wright (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Phoenix Wright (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Psylocke (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Psylocke (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Psylocke (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Rashid (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Rashid (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Rashid (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Red She-Hulk (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Red She-Hulk (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Red She-Hulk (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},{
+		"count":1,
+		"name": "Rocket Raccoon (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Rocket Raccoon (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Rocket Raccoon (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Ryu (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ryu (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ryu (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},								{
+		"count":1,
+		"name": "Sakura (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sakura (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sakura (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Sentinel (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sentinel (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sentinel (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Sentinel (MVC2) (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sentinel (MVC2) (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sentinel (MVC2) (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Servebot (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Servebot (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Servebot (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Shadow Lady (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shadow Lady (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shadow Lady (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "She-Hulk (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "She-Hulk (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "She-Hulk (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Sherry (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sherry (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Sherry (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Shin Akuma Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shocker (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shocker (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shocker (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Shuma-Gorath (Alpha Assist) Training Key",
+		"category": ["DLC Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shuma-Gorath (Beta Assist) Training Key",
+		"category": ["DLC Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Shuma-Gorath (Gamma Assist) Training Key",
+		"category": ["DLC Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Spencer (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Spencer (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spencer (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Spider-Gwen (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spider-Gwen (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spider-Gwen (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Spider-Man (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spider-Man (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Spider-Man (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Stranger (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Stranger (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Stranger (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Strider 2099 (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Strider 2099 (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Strider 2099 (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Strider Hiryu (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Strider Hiryu (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Strider Hiryu (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Storm (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Storm (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Storm (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Super-Skrull (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Super-Skrull (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Super-Skrull (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Taskmaster (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Taskmaster (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Taskmaster (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "Thanos (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Thanos (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Thanos (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},				{
+		"count":1,
+		"name": "The Thing (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "The Thing (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "The Thing (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Thor (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Thor (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Thor (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Trish (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Trish (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Trish (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Tron Bonne (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tron Bonne (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Tron Bonne (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "U.S. Agent (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "U.S. Agent (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "U.s. Agent (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ultron (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ultron (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Ultron (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Venom (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Venom (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Venom (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vergil (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (DMC5) (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (DMC5) (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vergil (DMC5) (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Viewtiful Joe (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vietiful Joe (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Vietiful Joe (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wesker (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wesker (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wesker (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Wesker (S.T.A.R.S) (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wesker (S.T.A.R.S) (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wesker (S.T.A.R.S) (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Wolverine (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wolverine (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wolverine (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "Wolverine (Laura) (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wolverine (Laura) (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Wolverine (Laura (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "X (Alpha Assist) Training Key",
+		"category": ["Modded Training Alpha"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "X (Beta Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "X (Gamma Assist) Training Key",
+		"category": ["Modded Training"],
+		"progression": true
+	},		{
+		"count":1,
+		"name": "X-23 (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "X-23 (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "X-23 (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Zero (Alpha Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Zero (Beta Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},	{
+		"count":1,
+		"name": "Zero (Gamma Assist) Training Key",
+		"category": ["Base Training"],
+		"progression": true
+	},    {
+        "count": 1,
+        "name": "Galactus Mode Key",
+        "category": [
+            "End of the World (Final Key)"
+        ],
+        "progression": true
+    },
+
+    {
+        "count": 1,
+        "name": "Arcade Stone",
+        "category": [
+            "Stones"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Training Stone",
+        "category": [
+            "Stones"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Arcade Mode Key",
+        "category": [
+            "Modes"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Training Mode Key",
+        "category": [
+            "Modes"
+        ],
+        "progression": true
+    }
+]

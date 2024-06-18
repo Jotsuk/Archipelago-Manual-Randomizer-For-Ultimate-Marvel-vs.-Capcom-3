@@ -1,0 +1,34 @@
+{
+	"Main Characters (Starting characters)": 	{
+		"starting": true,
+		"connects_to": ["Arcade Mode", "Training Mode", "Versus Mode"],
+		"requires": []
+	},
+	"Training Mode": 	{
+		"starting": false,
+		"connects_to": ["Stone Pedestal"],
+		"requires": ["Training Mode Key"]
+	},	
+	"Arcade Mode": 	{
+		"starting": false,
+		"connects_to": ["Stone Pedestal"],
+		"requires": ["Arcade Mode Key"]
+	},
+	"Versus Mode": 	{
+		"starting": false,
+		"connects_to": ["Stone Pedestal"],
+		"requires": ["Versus Mode Key"]
+	},
+	"Stone Pedestal": 	{
+		"starting": false,
+		"connects_to": ["Galactus Mode"],
+		"requires": ["Versus Mode Key"]
+	},
+	"Galactus Mode": 	{
+		"starting": false,
+		"connects_to": [],
+		"requires": ["Galactus Mode Key"]
+	}
+
+
+}

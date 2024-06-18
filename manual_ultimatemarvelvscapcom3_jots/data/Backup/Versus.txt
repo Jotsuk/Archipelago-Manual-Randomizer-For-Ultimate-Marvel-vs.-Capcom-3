@@ -1,0 +1,1145 @@
+    {
+        "name": "Victory - Akuma",
+        "category": [
+            "Versus Mode", 
+            "Base"
+            
+            
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Akuma Key"
+        ]
+    },
+    {
+        "name": "Victory - Amaterasu",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Amaterasu Key"
+        ]
+    },
+    {
+        "name": "Victory - Arthur",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Arthur Key"
+        ]
+    },
+    {
+        "name": "Victory - Asura",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Asura Key"
+        ]
+    },    {
+        "name": "Victory - Batsu",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Batsu Key"
+        ]
+    },    {
+        "name": "Victory - Bishop",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Bishop Key"
+        ]
+    },    {
+        "name": "Victory - C. Viper",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "C. Viper Key"
+        ]
+    },    {
+        "name": "Victory - Cammy",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Cammy Key"
+        ]
+    },
+    {
+        "name": "Victory - Captain America",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Captain America Key"
+        ]
+    },    {
+        "name": "Victory - Captain Commando",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Captain Commando Key"
+        ]
+    },    {
+        "name": "Victory - Captain Marvel",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Captain Marvel Key"
+        ]
+    },    {
+        "name": "Victory - Carnage",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Carnage Key"
+        ]
+    },    {
+        "name": "Victory - Charlie",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Charlie Key"
+        ]
+    },
+    {
+        "name": "Victory - Chris",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Chris Key"
+        ]
+    },    {
+        "name": "Victory - Chris (S.T.A.R.S)",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Chris (S.T.A.R.S) Key"
+        ]
+    },
+    {
+        "name": "Victory - Chun-Li",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Chun-Li Key"
+        ]
+    },    {
+        "name": "Victory - Clea",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Clea Key"
+        ]
+    },        {
+        "name": "Victory - Colossus",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Colossus Key"
+        ]
+    },    {
+        "name": "Victory - Cyclops",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Cyclops Key"
+        ]
+    },    {
+        "name": "Victory - Dan",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Dan Key"
+        ]
+    },
+    {
+        "name": "Victory - Dante",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Dante Key"
+        ]
+    },    {
+        "name": "Victory - Dante (DMC1)",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Dante (DMC1) Key"
+        ]
+    },
+    {
+        "name": "Victory - Deadpool",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Deadpool Key"
+        ]
+    },
+    {
+        "name": "Victory - Doctor Doom",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Doctor Doom Key"
+        ]
+    },
+    {
+        "name": "Victory - Doctor Strange",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Doctor Strange Key"
+        ]
+    },
+    {
+        "name": "Victory - Dormammu",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Dormammu Key"
+        ]
+    },    {
+        "name": "Victory - Evil Ryu",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Evil Ryu Key"
+        ]
+    },
+    {
+        "name": "Victory - Felicia",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Felicia Key"
+        ]
+    },
+    {
+        "name": "Victory - Firebrand",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Firebrand Key"
+        ]
+    },
+    {
+        "name": "Victory - Frank West",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Frank West Key"
+        ]
+    },    {
+        "name": "Victory - Gambit",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Gambit Key"
+        ]
+    },
+    {
+        "name": "Victory - Ghost Rider",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Ghost Rider Key"
+        ]
+    },    {
+        "name": "Victory - Gloria",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Gloria Key"
+        ]
+    },    {
+        "name": "Victory - Guile",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Guile Key"
+        ]
+    },
+    {
+        "name": "Victory - Haggar",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Haggar Key"
+        ]
+    },
+    {
+        "name": "Victory - Hawkeye",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Hawkeye Key"
+        ]
+    },
+    {
+        "name": "Victory - Hinata",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Hinata Key"
+        ]
+    },        {
+        "name": "Victory - Hsien-Ko",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Hsien-Ko Key"
+        ]
+    },
+    {
+        "name": "Victory - Hulk",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Hulk Key"
+        ]
+    },    {
+        "name": "Victory - Hunk",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Hunk Key"
+        ]
+    },    {
+        "name": "Victory - Iceman",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Iceman Key"
+        ]
+    },
+    {
+        "name": "Victory - Iron Fist",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Iron Fist Key"
+        ]
+    },
+    {
+        "name": "Victory - Iron Man",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Iron Man Key"
+        ]
+    },    {
+        "name": "Victory - Jake",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Jake Key"
+        ]
+    },    {
+        "name": "Victory - Jean Grey",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Jean Grey Key"
+        ]
+    },
+    {
+        "name": "Victory - Jill",
+        "category": [
+            "Versus Mode", "DLC"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Jill Key"
+        ]
+    },    {
+        "name": "Victory - Jill (S.T.A.R.S)",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Jill (S.T.A.R.S) Key"
+        ]
+    },    {
+        "name": "Victory - Jon Talbain",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Jon Talbain Key"
+        ]
+    },    {
+        "name": "Victory - Ken",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Ken Key"
+        ]
+    },    {
+        "name": "Victory - King Thor",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "King Thor Key"
+        ]
+    },    {
+        "name": "Victory - Krauser",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Krauser Key"
+        ]
+    },    {
+        "name": "Victory - Leon",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Leon Key"
+        ]
+    },    {
+        "name": "Victory - Lilith",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Lilith Key"
+        ]
+    },
+    {
+        "name": "Victory - M.O.D.O.K",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "M.O.D.O.K Key"
+        ]
+    },    {
+        "name": "Victory - M. Bison",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "M. Bison Key"
+        ]
+    },   {
+        "name": "Victory - Magneto",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Magneto Key"
+        ]
+    },    {
+        "name": "Victory - Monster Hunter",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Monster Hunter Key"
+        ]
+    },
+    {
+        "name": "Victory - Moonstone",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Moonstone Key"
+        ]
+    },    {
+        "name": "Victory - Morrigan",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Morrigan Key"
+        ]
+    },
+ 
+   {
+        "name": "Victory - Nemesis T-Type",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Nemesis T-Type Key"
+        ]
+    },
+    {
+        "name": "Victory - Nova",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Nova Key"
+        ]
+    },
+    {
+        "name": "Victory - Onslaught",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Onslaught Key"
+        ]
+    },    {
+        "name": "Victory - Orange Hulk",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Orange Hulk Key"
+        ]
+    },    {
+        "name": "Victory - Phoenix",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Phoenix Key"
+        ]
+    },
+    {
+        "name": "Victory - Phoenix and Maya",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Phoenix and Maya Key"
+        ]
+    },    {
+        "name": "Victory - Phoenix Wright",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },
+    {
+        "name": "Victory - Psylocke",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Psylocke Key"
+        ]
+    },    {
+        "name": "Victory - Rashid",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Rashid Key"
+        ]
+    },    {
+        "name": "Victory - Red She-Hulk",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Red She-Hulk Key"
+        ]
+    },    {
+        "name": "Victory - Rocket Raccoon",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },
+    {
+        "name": "Victory - Ryu",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Ryu Key"
+        ]
+    },
+    {
+        "name": "Victory - Sakura",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Sakura Key"
+        ]
+    },    {
+        "name": "Victory - Sentinel",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Sentinel Key"
+        ]
+    },
+    {
+        "name": "Victory - Sentinel (MVC2)",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Sentinel (MVC2) Key"
+        ]
+    },    {
+        "name": "Victory - Servebot",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Servebot Key"
+        ]
+    },    {
+        "name": "Victory - Shadow Lady",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Shadow Lady Key"
+        ]
+    },    {
+        "name": "Victory - She-Hulk",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "She-Hulk Key"
+        ]
+    },
+    {
+        "name": "Victory - Sherry",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Sherry Key"
+        ]
+    },    {
+        "name": "Victory - Shin Akuma",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Shin Akuma Key"
+        ]
+    },    {
+        "name": "Victory - Shocker",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Shocker Key"
+        ]
+    },    {
+        "name": "Victory - Shuma-Gorath",
+        "category": [
+            "Versus Mode", "DLC"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },
+    {
+        "name": "Victory - Spencer",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Spencer Key"
+        ]
+    },
+    {
+        "name": "Victory - Spider-Gwen",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Spider-Gwen Key"
+        ]
+    },    {
+        "name": "Victory - Spider-Man",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Spider-Man Key"
+        ]
+    },
+    {
+        "name": "Victory - Storm",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Storm Key"
+        ]
+    },
+    {
+        "name": "Victory - Stranger",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Stranger Key"
+        ]
+    },    {
+        "name": "Victory - Strider 2099",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Strider 2099 Key"
+        ]
+    },    {
+        "name": "Victory - Strider Hiryu",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },
+    {
+        "name": "Victory - Super-Skrull",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Super-Skrull Key"
+        ]
+    },
+    {
+        "name": "Victory - Taskmaster",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Taskmaster Key"
+        ]
+    },
+    {
+        "name": "Victory - Thanos",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Thanos Key"
+        ]
+    },    {
+        "name": "Victory - The Thing",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "The Thing Key"
+        ]
+    },    {
+        "name": "Victory - Thor",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Thor Key"
+        ]
+    },
+    {
+        "name": "Victory - Trish",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Trish Key"
+        ]
+    },
+    {
+        "name": "Victory - Tron Bonne",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Tron Bonne Key"
+        ]
+    },
+    {
+        "name": "Victory - U.S. Agent",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "U.S. Agent Key"
+        ]
+    },    {
+        "name": "Victory - Ultron",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Ultron Key"
+        ]
+    },    {
+        "name": "Victory - Venom",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Venom Key"
+        ]
+    },    {
+        "name": "Victory -Vergil",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Vergil Key"
+        ]
+    },
+    {
+        "name": "Victory - Vergil (DMC5)",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Vergil (DMC5) Key"
+        ]
+    },    {
+        "name": "Victory - Viewtiful Joe",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Viewtiful Joe Key"
+        ]
+    },
+    {
+        "name": "Victory - Wesker",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Wesker Key"
+        ]
+    },
+    {
+        "name": "Victory - Wesker (S.T.A.R.S)",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Wesker (S.T.A.R.S) Key"
+        ]
+    },    {
+        "name": "Victory - Wolverine",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Wolverine Key"
+        ]
+    },
+    {
+        "name": "Victory - Wolverine (Laura)",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Wolverine (Laura) Key"
+        ]
+    },    {
+        "name": "Victory - X",
+        "category": [
+            "Versus Mode", "Modded"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "X Key"
+        ]
+    },    {
+        "name": "Victory - X-23",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Versus Mode Key",
+            "X-23 Key"
+        ]
+    },
+    {
+        "name": "Victory - Zero",
+        "region": "Arcade Mode",
+        "category": [
+            "Versus Mode", "Base"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Zero Key"
+        ]
+    },
+    {
+        "name": "Random All Hell",
+        "region": "Arcade Mode",
+        "category": [
+             "Win with 15 Different Characters", "Versus Mode"
+        ],
+        "place_item": [
+            "Random Character X3"
+        ],
+        "requires": [
+            "Versus Mode Key","Versus Mode Key"]
+    },
