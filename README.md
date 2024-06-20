@@ -32,6 +32,11 @@ Here are all the ways you can earn items outside of the previously mentioned way
 Toggleable options:
 You can disable any mode you wish (broken at the moment; will be fixed next update), and you can also disable the DLC characters in case you can't access them
 
+Time it takes to beat each mode:
+*Versus mode: If you're fighting people you can consistently win against, it should take about 30 minutes to win a game with 15 characters. Time may vary greatly depending on skill
+*Arcade Mode: It takes about 20 - 40 minutes for each run through arcade mode. For the 15 default characters it should take about 2 hours 30 minutes to beat this mode.
+*Training mode: Depends heavily on character RNG, execution, previous knowledge of the combo system and how quickly you learn. Me personally, I often reach the damage threshold in about 5-10 minutes per character.
+
 Major issues
 * You you cannot disable any modes, doing so will make generating a game fail.
 
