@@ -1,0 +1,4221 @@
+[
+    {
+        "name": "Versus Stone",
+        "region": "Arcade Mode",
+        "category": [
+            "Win a game with 3 random characters", "Versus Mode"
+        ],
+        "place_item": [
+            "Versus Stone"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Random Character X3"
+             
+        ]
+    },{
+        "name": "Arcade Stone",
+        "region": "Arcade Mode",
+        "category": [
+            "Clear Arcade Mode with 15 fighters", "Arcade Mode"
+        ],
+        "place_item": [
+            "Arcade Stone"
+        ],
+        "requires": [
+            "Arcade Mode Key"
+             
+        ]
+    },
+    {
+        "name": "Training Stone",
+        "region": "Training Mode",
+        "category": [
+            "Deal 1,250,000 Damage With no X-Factor, no Level 3s", "Training Mode"
+        ],
+        "place_item": [
+            "Training Stone"
+        ],
+        "requires": [
+            "Training Mode Key"
+            
+        ]
+    },
+    {
+        "name": "Take Control of Galactus!",
+        "region": "Stone Pedestal",
+        "category": [
+            "Stone Pedestal (Win Condition)"
+        ],
+        "place_item": [
+            "Galactus Mode Key"
+        ],
+        "requires": [
+            "Training Stone",
+            "Arcade Stone",
+            "Versus Stone"
+        ]
+    },
+    {
+        "name": "K.O - Akuma",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Akuma Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Akuma",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode" 
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Akuma Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Akuma",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Akuma Key"
+        ]
+    },    {
+        "name": "K.O - Amaterasu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Amaterasu Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Amaterasu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Amaterasu Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Amaterasu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Amaterasu Key"
+        ]
+    },    {
+        "name": "K.O - Arthur",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Arthur Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Arthur",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Arthur Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Arthur",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Arthur Key"
+        ]
+    },    {
+        "name": "K.O - C. Viper",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "C. Viper Key"
+        ]
+    },    {
+        "name": "Level 1 Hyper Combo K.O - C. Viper",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "C. Viper Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - C. Viper",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "C. Viper Key"
+        ]
+    },    {
+        "name": "K.O - Captain America",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Captain America Key"
+        ]
+    },    {
+        "name": "Level 1 Hyper Combo K.O - Captain America",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Captain America Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Captain America",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Captain America Key"
+        ]
+    },    {
+        "name": "K.O - Chris",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Chris Key"
+        ]
+    },    {
+        "name": "Level 1 Hyper Combo K.O - Chris",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Chris Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Chris",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Chris Key"
+        ]
+    },    {
+        "name": "K.O - Chun-Li",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Chun-Li Key"
+        ]
+    },    {
+        "name": "Level 1 Hyper Combo K.O - Chun-Li",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Chun-Li Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Chun-Li",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Chun-Li Key"
+        ]
+    },    {
+        "name": "K.O - Dante",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dante Key"
+        ]
+    },    {
+        "name": "Level 1 Hyper Combo K.O - Dante",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dante Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Dante",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dante Key"
+        ]
+    },    {
+        "name": "K.O - Deadpool",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Deadpool Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Deadpool",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Deadpool Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Deadpool",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Deadpool Key"
+        ]
+    },    {
+        "name": "K.O - Doctor Doom",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Doom Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Doctor Doom",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Doom Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Doctor Doom",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Doom Key"
+        ]
+    },    {
+        "name": "K.O - Doctor Strange",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Strange Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Doctor Strange",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Strange Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Doctor Strange",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Strange Key"
+        ]
+    },    {
+        "name": "K.O - Dormammu",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dormammu Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Dormammu",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dormammu Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Dormammu",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dormammu Key"
+        ]
+    },   {
+        "name": "K.O - Felicia",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Felicia Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Felicia",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Felicia Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Felicia",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Felicia Key"
+        ]
+    },    {
+        "name": "K.O - Firebrand",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Firebrand Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Firebrand",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Firebrand Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Firebrand",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Firebrand Key"
+        ]
+    },    {
+        "name": "K.O - Frank West",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Frank West Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Frank West",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Frank West Key"
+        ]
+    },    {
+        "name": "K.O - Ghost Rider",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Ghost Rider Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Ghost Rider",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Ghost Rider Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Ghost Rider",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Ghost Rider Key"
+        ]
+    },    {
+        "name": "K.O - Haggar",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Haggar Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Haggar",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Haggar Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Haggar",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Haggar Key"
+        ]
+    },    {
+        "name": "K.O - Hawkeye",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hawkeye Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Hawkeye",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hawkeye Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Hawkeye",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hawkeye Key"
+        ]
+    }, {
+        "name": "K.O - Hsien-Ko",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Hsien-Ko Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Hsien-Ko",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Hsien-Ko Key"
+        ]
+    },    {
+        "name": "K.O - Hulk",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hulk Key"
+        ]
+    },    {
+        "name": "Level 1 Hyper Combo K.O - Hulk",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hulk Key"
+        ]
+    },    {
+        "name": "K.O - Iron Fist",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Fist Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Iron Fist",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Fist Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Iron Fist",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Fist Key"
+        ]
+    },    {
+        "name": "K.O - Iron Man",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Man Key"
+        ]
+    },    {
+        "name": "Level 1 Hyper Combo K.O - Iron Man",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Man Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Iron Man",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Man Key"
+        ]
+    },    {
+        "name": "K.O - Jill",
+        "category": [
+            "DLC", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Jill Key"
+        ]
+    },    {
+        "name": "Level 1 Hyper Combo K.O - Jill",
+        "category": [
+            "DLC", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Jill Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Jill",
+        "category": [
+            "DLC", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Jill Key"
+        ]
+    },    {
+        "name": "K.O - M.O.D.O.K",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "M.O.D.O.K Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - M.O.D.O.K",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Akuma Key"
+        ]
+    },   {
+        "name": "K.O - Magneto",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Magneto Key"
+        ]
+    },   {
+        "name": "Level 1 Hyper Combo K.O - Magneto",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Magneto Key"
+        ]
+    },   {
+        "name": "Level 3 Hyper Combo K.O - Magneto",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Magneto Key"
+        ]
+    },   {
+        "name": "K.O - Morrigan",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Morrigan Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Morrigan",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Morrigan Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Morrigan",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Morrigan Key"
+        ]
+    },   {
+        "name": "K.O - Nemesis T-Type",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Nemesis T-Type Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Nemesis T-Type",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Nemesis T-Type Key"
+        ]
+    },
+    {
+         "name": "Level 3 Hyper Combo K.O - Nemesis T-Type",
+         "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+         "region": "Arcade Mode",
+         "requires": [
+             "Arcade Mode Key",
+            "Nemesis T-Type Key"
+         ]
+     },    {
+        "name": "K.O - Nova",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Nova Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Nova",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Nova Key"
+        ]
+    },    {
+        "name": "K.O - Phoenix",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Phoenix",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Key"
+        ]
+    },
+    {
+        "name": "Level 5 Hyper Combo K.O - Phoenix",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Key"
+        ]
+    },     {
+        "name": "K.O - Phoenix Wright",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Phoenix Wright",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Phoenix Wright",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },    {
+        "name": "K.O - Rocket Raccoon",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Rocket Raccoon",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Rocket Raccoon",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },    {
+        "name": "K.O - Ryu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Ryu Key"
+        ]
+    },
+
+    {
+        "name": "Level 1 Hyper Combo K.O - Ryu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Ryu Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Ryu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Ryu Key"
+        ]
+    },    {
+        "name": "K.O - Sentinel",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Sentinel Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Sentinel",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Sentinel Key"
+        ]
+    },    {
+        "name": "K.O - She-Hulk",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "She-Hulk Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - She-Hulk",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "She-Hulk Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - She-Hulk",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "She-Hulk Key"
+        ]
+    },    {
+        "name": "K.O - Shuma-Gorath",
+        "category": [
+            "DLC", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Shuma-Gorath",
+        "category": [
+            "DLC", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Shuma-Gorath",
+        "category": [
+            "DLC", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },    {
+        "name": "K.O - Spencer",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Spencer Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Spencer",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Spencer Key"
+        ]
+    },    {
+        "name": "K.O - Spider-Man",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Spider-Man Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Spider-Man",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Spider-Man Key"
+        ]
+    },    {
+        "name": "K.O - Storm",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Storm Key"
+        ]
+    },
+
+    {
+        "name": "Level 1 Hyper Combo K.O - Storm",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Storm Key"
+        ]
+    },    {
+        "name": "K.O - Strider Hiryu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Strider Hiryu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Strider Hiryu",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },    {
+        "name": "K.O - Super-Skrull",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Super-Skrull Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Super-Skrull",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Super-Skrull Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Super-Skrull",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Super-Skrull Key"
+        ]
+    },    {
+        "name": "K.O - Taskmaster",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Taskmaster Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Taskmaster",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Taskmaster Key"
+        ]
+    },    {
+        "name": "K.O - Thor",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Thor Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Thor",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Thor Key"
+        ]
+    },    {
+        "name": "K.O - Trish",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Trish Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Trish",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Trish Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Trish",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Trish Key"
+        ]
+    },    {
+        "name": "K.O - Tron Bonne",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Tron Bonne Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Tron Bonne",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Tron Bonne Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Tron Bonne",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Tron Bonne Key"
+        ]
+    },    {
+        "name": "K.O - Vergil",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Vergil Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Vergil",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Vergil Key"
+        ]
+    },  {
+        "name": "Level 3 Hyper Combo K.O -Vergil",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Vergil Key"
+        ]
+    },    {
+        "name": "K.O - Viewtiful Joe",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Viewtiful Joe Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Viewtiful Joe",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Viewtiful Joe Key"
+        ]
+    },    {
+        "name": "K.O - Wesker",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Wesker Key"
+        ]
+    },
+
+    {
+        "name": "Level 1 Hyper Combo K.O - Wesker",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Wesker Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Wesker",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Wesker Key"
+        ]
+    },    {
+        "name": "K.O - Wolverine",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Wolverine Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Wolverine",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Wolverine Key"
+        ]
+    },    {
+        "name": "Level 3 Hyper Combo K.O - Wolverine",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Wolverine Key"
+        ]
+    },   {
+        "name": "K.O - X-23",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "X-23 Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - X-23",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "X-23 Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - X-23",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "X-23 Key"
+        ]
+    },    {
+        "name": "K.O - Zero",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Zero Key"
+        ]
+    },
+    {
+        "name": "Level 1 Hyper Combo K.O - Zero",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Zero Key"
+        ]
+    },
+    {
+        "name": "Level 3 Hyper Combo K.O - Zero",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Zero Key"
+        ]
+    },
+
+    {
+        "name": "Crossover Combination K.O",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key"
+        ]
+    },    
+    {
+        "name": "Perfect Game",
+        "category": [
+            "Base Game", "Arcade K.Os", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key"
+
+        ]
+    },    {
+        "name": "Win Game - Akuma",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Akuma Key"
+        ]
+    },
+    {
+        "name": "Win Game - Amaterasu",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Amaterasu Key"
+        ]
+    },
+    {
+        "name": "Win Game - Arthur",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Arthur Key"
+        ]
+    },   {
+        "name": "Win Game - C. Viper",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "C. Viper Key"
+        ]
+    },
+    {
+        "name": "Win Game - Captain America",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Captain America Key"
+        ]
+    },
+    {
+        "name": "Win Game - Chris",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Chris Key"
+        ]
+    },
+    {
+        "name": "Win Game - Chun-Li",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Chun-Li Key"
+        ]
+    }, 
+    {
+        "name": "Win Game - Dante",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dante Key"
+        ]
+    },
+    {
+        "name": "Win Game - Deadpool",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Deadpool Key"
+        ]
+    },
+    {
+        "name": "Win Game - Doctor Doom",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Doom Key"
+        ]
+    },
+    {
+        "name": "Win Game - Doctor Strange",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Strange Key"
+        ]
+    },
+    {
+        "name": "Win Game - Dormammu",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dormammu Key"
+        ]
+    }, 
+    {
+        "name": "Win Game - Felicia",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Felicia Key"
+        ]
+    },
+
+    {
+        "name": "Win Game - Firebrand",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Firebrand Key"
+        ]
+    },   {
+        "name": "Win Game - Frank West",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Frank West Key"
+        ]
+    },
+    {
+        "name": "Win Game - Ghost Rider",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Ghost Rider Key"
+        ]
+    },
+    {
+        "name": "Win Game - Haggar",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Haggar Key"
+        ]
+    },
+    {
+        "name": "Win Game - Hawkeye",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hawkeye Key"
+        ]
+    },
+    {
+        "name": "Win Game - Hsien-Ko",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Hsien-Ko Key"
+        ]
+    },
+    {
+        "name": "Win Game - Hulk",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hulk Key"
+        ]
+    }, 
+    {
+        "name": "Win Game - Iron Fist",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Fist Key"
+        ]
+    },
+    {
+        "name": "Win Game - Iron Man",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Man Key"
+        ]
+    },
+    {
+        "name": "Win Game - Jill",
+        "category": [
+            "DLC", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Jill Key"
+        ]
+    },    {
+        "name": "Win Game - M.O.D.O.K",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "M.O.D.O.K Key"
+        ]
+    },   {
+        "name": "Win Game - Magneto",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Magneto Key"
+        ]
+    },    {
+        "name": "Win Game - Morrigan",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Morrigan Key"
+        ]
+    },
+    {
+        "name": "Win Game - Nemesis T-Type",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Nemesis T-Type Key"
+        ]
+    },
+    {
+        "name": "Win Game - Nova",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Nova Key"
+        ]
+    },    {
+        "name": "Win Game - Phoenix",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Key"
+        ]
+    },    {
+        "name": "Win Game - Phoenix Wright",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },    {
+        "name": "Win Game - Rocket Raccoon",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },
+    {
+        "name": "Win Game - Ryu",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Ryu Key"
+        ]
+    },   {
+        "name": "Win Game - Sentinel",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Sentinel Key"
+        ]
+    },    {
+        "name": "Win Game - She-Hulk",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "She-Hulk Key"
+        ]
+    },    {
+        "name": "Win Game - Shuma-Gorath",
+        "category": [
+            "DLC", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },
+    {
+        "name": "Win Game - Spencer",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Spencer Key"
+        ]
+    },    {
+        "name": "Win Game - Spider-Man",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Spider-Man Key"
+        ]
+    },
+    {
+        "name": "Win Game - Storm",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Storm Key"
+        ]
+    },    {
+        "name": "Win Game - Strider Hiryu",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },
+    {
+        "name": "Win Game - Super-Skrull",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Super-Skrull Key"
+        ]
+    },
+    {
+        "name": "Win Game - Taskmaster",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Taskmaster Key"
+        ]
+    },   {
+        "name": "Win Game - Thor",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Thor Key"
+        ]
+    },
+    {
+        "name": "Win Game - Trish",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Trish Key"
+        ]
+    },
+    {
+        "name": "Win Game - Tron Bonne",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Tron Bonne Key"
+        ]
+    },   {
+        "name": "Win Game -Vergil",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Vergil Key"
+        ]
+    },    {
+        "name": "Win Game - Viewtiful Joe",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Viewtiful Joe Key"
+        ]
+    },
+    {
+        "name": "Win Game - Wesker",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Wesker Key"
+        ]
+    },    {
+        "name": "Win Game - Wolverine",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Wolverine Key"
+        ]
+    },    {
+        "name": "Win Game - X-23",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "X-23 Key"
+        ]
+    },
+    {
+        "name": "Win Game - Zero",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Games Won", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Zero Key"
+        ]
+    },        {
+        "name": "Arcade Mode Clear - Akuma",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Akuma Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Amaterasu",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Amaterasu Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Arthur",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Arthur Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - C. Viper",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "C. Viper Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Captain America",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Captain America Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Chris",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Chris Key"
+        ]
+    }, 
+    {
+        "name": "Arcade Mode Clear - Chun-Li",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Chun-Li Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Dante",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dante Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Deadpool",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Deadpool Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Doctor Doom",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Doom Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Doctor Strange",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Doctor Strange Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Dormammu",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Dormammu Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Felicia",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Felicia Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Firebrand",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Firebrand Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Frank West",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Frank West Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Ghost Rider",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Ghost Rider Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Haggar",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Haggar Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Hawkeye",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hawkeye Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Hsien-Ko",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Hsien-Ko Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Hulk",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Hulk Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Iron Fist",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Fist Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Iron Man",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Iron Man Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Jill",
+        "category": [
+            "DLC", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Jill Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - M.O.D.O.K",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "M.O.D.O.K Key"
+        ]
+    },   {
+        "name": "Arcade Mode Clear - Magneto",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Magneto Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Morrigan",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Morrigan Key"
+        ]
+    },
+ 
+   {
+        "name": "Arcade Mode Clear - Nemesis T-Type",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Nemesis T-Type Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Nova",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Nova Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Phoenix",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Phoenix Wright",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Rocket Raccoon",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Ryu",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Ryu Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Sentinel",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Sentinel Key"
+        ]
+    },   {
+        "name": "Arcade Mode Clear - She-Hulk",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "She-Hulk Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Shuma-Gorath",
+        "category": [
+            "DLC", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Spencer",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Spencer Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Spider-Man",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Spider-Man Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Storm",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Storm Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Strider Hiryu",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Super-Skrull",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Super-Skrull Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Taskmaster",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Taskmaster Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Thor",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Thor Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Trish",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Trish Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Tron Bonne",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Tron Bonne Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear -Vergil",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Vergil Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Viewtiful Joe",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Viewtiful Joe Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Wesker",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Wesker Key"
+        ]
+    },    {
+        "name": "Arcade Mode Clear - Wolverine",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "Wolverine Key"
+        ]
+    },   {
+        "name": "Arcade Mode Clear - X-23",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "region": "Arcade Mode",
+        "requires": [
+            "Arcade Mode Key",
+            "X-23 Key"
+        ]
+    },
+    {
+        "name": "Arcade Mode Clear - Zero",
+        "region": "Arcade Mode",
+        "category": [
+            "Base Game", "Arcade Mode Clears", "Arcade Mode"
+        ],
+        "requires": [
+            "Arcade Mode Key",
+            "Zero Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Akuma",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Akuma Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Akuma",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Akuma Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Amaterasu",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Amaterasu Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Amaterasu",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Amaterasu Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Arthur",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Arthur Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Arthur",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Arthur Key"
+        ]
+    },        {
+        "name": "1,250,000 Damage - C. Viper",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "C. Viper Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - C. Viper",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "C. Viper Key"
+        ]
+    },
+        {
+        "name": "1,250,000 Damage - Captain America",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Captain America Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Captain America",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Captain America Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Chris",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Chris Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Chris",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Chris Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Chun-Li",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Chun-Li Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Chun-Li",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Chun-Li Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Dante",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Dante Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Dante",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Dante Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Deadpool",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Deadpool Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Deadpool",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Deadpool Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Doctor Doom",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Doctor Doom Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Doctor Doom",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Doctor Doom Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Doctor Strange",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Doctor Strange Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Doctor Strange",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Doctor Strange Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Dormammu",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Dormammu Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Dormammu",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Dormammu Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Felicia",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Felicia Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Felicia",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Felicia Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Firebrand",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Firebrand Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Firebrand",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Firebrand Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Frank West",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Frank West Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Frank West",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Frank West Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Ghost Rider",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Ghost Rider Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Ghost Rider",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Ghost Rider Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Haggar",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Haggar Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Haggar",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Haggar Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Hawkeye",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Hawkeye Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Hawkeye",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Hawkeye Key"
+        ]
+    },            {
+        "name": "1,250,000 Damage - Hsien-Ko",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Hsien-Ko Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Hsien-Ko",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Hsien-Ko Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Hulk",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Hulk Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Hulk",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Hulk Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Iron Fist",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Iron Fist Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Iron Fist",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Iron Fist Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Iron Man",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Iron Man Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Iron Man",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Iron Man Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Jill",
+        "category": [
+            "Training Mode", "DLC"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Jill Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Jill",
+        "category": [
+            "Training Mode", "DLC"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Jill Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - M.O.D.O.K",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "M.O.D.O.K Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - M.O.D.O.K",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "M.O.D.O.K Key"
+        ]
+    },   {
+        "name": "1,250,000 Damage - Magneto",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Magneto Key"
+        ]
+    },   {
+        "name": "1,250,000 Damage (No Level 3s) - Magneto",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Magneto Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Morrigan",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Morrigan Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Morrigan",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Morrigan Key"
+        ]
+    },
+ 
+   {
+        "name": "1,250,000 Damage - Nemesis T-Type",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Nemesis T-Type Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Nemesis T-Type",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Nemesis T-Type Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Nova",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Nova Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Nova",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Nova Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Phoenix",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Phoenix Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Phoenix",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Phoenix Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Phoenix Wright",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Phoenix Wright",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Rocket Raccoon",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Rocket Raccoon",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Ryu",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Ryu Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Ryu",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Ryu Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Sentinel",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Sentinel Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Sentinel",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Sentinel Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - She-Hulk",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "She-Hulk Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - She-Hulk",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "She-Hulk Key"
+        ]
+    },   {
+        "name": "1,250,000 Damage - Shuma-Gorath",
+        "category": [
+            "Training Mode", "DLC"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Shuma-Gorath",
+        "category": [
+            "Training Mode", "DLC"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Spencer",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Spencer Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Spencer",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Spencer Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage - Spider-Man",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Spider-Man Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Spider-Man",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Spider-Man Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Storm",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Storm Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Storm",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Storm Key"
+        ]
+    },   {
+        "name": "1,250,000 Damage - Strider Hiryu",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Strider Hiryu",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Super-Skrull",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Super-Skrull Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Super-Skrull",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Super-Skrull Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Taskmaster",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Taskmaster Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Taskmaster",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Taskmaster Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Thor",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Thor Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Thor",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Thor Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Trish",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Trish Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Trish",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Trish Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Tron Bonne",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Tron Bonne Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Tron Bonne",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Tron Bonne Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage -Vergil",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Vergil Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Vergil",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Vergil Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Viewtiful Joe",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Viewtiful Joe Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Viewtiful Joe",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Viewtiful Joe Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Wesker",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Wesker Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Wesker",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Wesker Key"
+        ]
+    },   {
+        "name": "1,250,000 Damage - Wolverine",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Wolverine Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - Wolverine",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "Wolverine Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - X-23",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "X-23 Key"
+        ]
+    },
+    {
+        "name": "1,250,000 Damage (No Level 3s) - X-23",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "region": "Training Mode",
+        "requires": [
+            "Training Mode Key",
+            "X-23 Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage - Zero",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Zero Key"
+        ]
+    },    {
+        "name": "1,250,000 Damage (No Level 3s) - Zero",
+        "region": "Training Mode",
+        "category": [
+            "Training Mode", "Base Game"
+        ],
+        "requires": [
+            "Training Mode Key",
+            "Zero Key"
+        ]
+    },
+    {
+        "name": "Galactus Mode Stage 1 Victory",
+        "victory": false,
+        "region": "Galactus Mode",
+        "category": [
+            "Galactus Mode"
+        ],
+        "requires": [
+            "Galactus Mode Key"
+            
+        ]
+    },
+    {
+        "name": "Galactus Mode Stage 2 Victory",
+        "victory": false,
+        "region": "Galactus Mode",
+        "category": [
+            "Galactus Mode"
+        ],
+        "requires": [
+            "Galactus Mode Key"
+            
+        ]
+    },    {
+        "name": "Galactus Mode Stage 3 Victory",
+        "victory": false,
+        "region": "Galactus Mode",
+        "category": [
+            "Galactus Mode"
+        ],
+        "requires": [
+            "Galactus Mode Key"
+            
+        ]
+    },    {
+        "name": "Galactus Mode Stage 4 Victory",
+        "victory": false,
+        "region": "Galactus Mode",
+        "category": [
+            "Galactus Mode"
+        ],
+        "requires": [
+            "Galactus Mode Key"
+            
+        ]
+    },    {
+        "name": "Galactus Mode Stage 5 Victory",
+        "victory": false,
+        "region": "Galactus Mode",
+        "category": [
+            "Galactus Mode"
+        ],
+        "requires": [
+            "Galactus Mode Key"
+            
+        ]
+    },    {
+        "name": "Victory - Akuma",
+        "category": [
+            "Versus Mode", 
+            "Base Game"
+            
+            
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Akuma Key"
+        ]
+    },
+    {
+        "name": "Victory - Amaterasu",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Amaterasu Key"
+        ]
+    },
+    {
+        "name": "Victory - Arthur",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Arthur Key"
+        ]
+    },    {
+        "name": "Victory - C. Viper",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "C. Viper Key"
+        ]
+    },
+    {
+        "name": "Victory - Captain America",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Captain America Key"
+        ]
+    },
+    {
+        "name": "Victory - Chris",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Chris Key"
+        ]
+    },
+    {
+        "name": "Victory - Deadpool",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Deadpool Key"
+        ]
+    },
+    {
+        "name": "Victory - Doctor Doom",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Doctor Doom Key"
+        ]
+    },
+    {
+        "name": "Victory - Doctor Strange",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Doctor Strange Key"
+        ]
+    },
+    {
+        "name": "Victory - Dormammu",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Dormammu Key"
+        ]
+    },
+    {
+        "name": "Victory - Felicia",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Felicia Key"
+        ]
+    },
+    {
+        "name": "Victory - Firebrand",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Firebrand Key"
+        ]
+    },
+    {
+        "name": "Victory - Frank West",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Frank West Key"
+        ]
+    },
+    {
+        "name": "Victory - Ghost Rider",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Ghost Rider Key"
+        ]
+    },
+    {
+        "name": "Victory - Haggar",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Haggar Key"
+        ]
+    },
+    {
+        "name": "Victory - Hawkeye",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Hawkeye Key"
+        ]
+    },        {
+        "name": "Victory - Hsien-Ko",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Hsien-Ko Key"
+        ]
+    },
+    {
+        "name": "Victory - Hulk",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Hulk Key"
+        ]
+    },
+    {
+        "name": "Victory - Iron Fist",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Iron Fist Key"
+        ]
+    },
+    {
+        "name": "Victory - Iron Man",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Iron Man Key"
+        ]
+    },
+    {
+        "name": "Victory - Jill",
+        "category": [
+            "Versus Mode", "DLC"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Jill Key"
+        ]
+    },
+    {
+        "name": "Victory - M.O.D.O.K",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "M.O.D.O.K Key"
+        ]
+    },    {
+        "name": "Victory - Magneto",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Magneto Key"
+        ]
+    },    {
+        "name": "Victory - Morrigan",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Morrigan Key"
+        ]
+    },
+ 
+   {
+        "name": "Victory - Nemesis T-Type",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Nemesis T-Type Key"
+        ]
+    },
+    {
+        "name": "Victory - Nova",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Nova Key"
+        ]
+    },    {
+        "name": "Victory - Phoenix",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Phoenix Key"
+        ]
+    },    {
+        "name": "Victory - Phoenix Wright",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Phoenix Wright Key"
+        ]
+    },    {
+        "name": "Victory - Rocket Raccoon",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Rocket Raccoon Key"
+        ]
+    },
+    {
+        "name": "Victory - Ryu",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Ryu Key"
+        ]
+    },    {
+        "name": "Victory - Sentinel",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Sentinel Key"
+        ]
+    },    {
+        "name": "Victory - She-Hulk",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "She-Hulk Key"
+        ]
+    },    {
+        "name": "Victory - Shuma-Gorath",
+        "category": [
+            "Versus Mode", "DLC"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Shuma-Gorath Key"
+        ]
+    },
+    {
+        "name": "Victory - Spencer",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Spencer Key"
+        ]
+    },    {
+        "name": "Victory - Spider-Man",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Spider-Man Key"
+        ]
+    },
+    {
+        "name": "Victory - Storm",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Storm Key"
+        ]
+    },    {
+        "name": "Victory - Strider Hiryu",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Strider Hiryu Key"
+        ]
+    },
+    {
+        "name": "Victory - Super-Skrull",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Super-Skrull Key"
+        ]
+    },
+    {
+        "name": "Victory - Taskmaster",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Taskmaster Key"
+        ]
+    },    {
+        "name": "Victory - Thor",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Thor Key"
+        ]
+    },
+    {
+        "name": "Victory - Trish",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Trish Key"
+        ]
+    },
+    {
+        "name": "Victory - Tron Bonne",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Tron Bonne Key"
+        ]
+    },    {
+        "name": "Victory -Vergil",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Vergil Key"
+        ]
+    },    {
+        "name": "Victory - Viewtiful Joe",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Viewtiful Joe Key"
+        ]
+    },
+    {
+        "name": "Victory - Wesker",
+        "region": "Versus Mode",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "requires": [
+            "Versus Mode Key",
+            "Wesker Key"
+        ]
+    },    {
+        "name": "Victory - Wolverine",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Wolverine Key"
+        ]
+    },    {
+        "name": "Victory - X-23",
+        "category": [
+            "Versus Mode", "Base Game"
+        ],
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "X-23 Key"
+        ]
+    },
+    {
+        "name": "Victory - Zero",
+
+        "category": [
+            "Versus Mode", "Base Game"
+        ],        
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key",
+            "Zero Key"
+        ]
+    },
+    {
+        "name": "Random All Hell",
+        "place_item": [
+            "Random Character X3"
+        ],"category": [
+             "Win a game with 15 Different Characters", "Versus Mode"
+        ], 
+        "region": "Versus Mode",
+        "requires": [
+            "Versus Mode Key"]
+    },    {
+        "name": "Galactus Mode Stage 6 Victory",
+        "victory": true,
+        "region": "Galactus Mode",
+        "category": [
+            "Galactus Mode"
+        ],
+        "requires": [
+            "Galactus Mode Key"
+            
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+{
+	"Arcade Mode":  {
+		"yaml_option": ["Enable_Arcade_Mode"]
+		
+	},
+	"Training Mode":  {
+		"yaml_option": ["Enable_Training_Mode"]
+		
+	},
+	"Versus Mode":  {
+		"yaml_option": ["Enable_Versus_Mode"]
+		
+	},
+	"DLC": {
+		"yaml_option": ["Enable_DLC_Characters"]
+	}
+}
