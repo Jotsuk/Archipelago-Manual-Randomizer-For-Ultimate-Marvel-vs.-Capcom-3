@@ -2737,7 +2737,7 @@
         ],
         "requires": [
             "Training Mode Key",
-            "Dante (DMC1) Key"
+            "Dante Key"
         ]
     },    {
         "name": "1,250,000 Damage (No Level 3s) - Dante",
@@ -2747,7 +2747,7 @@
         ],
         "requires": [
             "Training Mode Key",
-            "Dante (DMC1) Key"
+            "Dante Key"
         ]
     },    {
         "name": "1,250,000 Damage - Deadpool",
@@ -3684,7 +3684,7 @@
         "name": "Victory - Akuma",
         "category": [
             "Versus Mode", 
-            "Base"
+            "Base Game"
             
             
         ],
@@ -3697,7 +3697,7 @@
     {
         "name": "Victory - Amaterasu",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3708,7 +3708,7 @@
     {
         "name": "Victory - Arthur",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3718,7 +3718,7 @@
     },    {
         "name": "Victory - C. Viper",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3730,7 +3730,7 @@
         "name": "Victory - Captain America",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3740,7 +3740,7 @@
     {
         "name": "Victory - Chris",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3752,7 +3752,7 @@
         "name": "Victory - Deadpool",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3763,7 +3763,7 @@
         "name": "Victory - Doctor Doom",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3774,7 +3774,7 @@
         "name": "Victory - Doctor Strange",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3785,7 +3785,7 @@
         "name": "Victory - Dormammu",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3796,7 +3796,7 @@
         "name": "Victory - Felicia",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3807,7 +3807,7 @@
         "name": "Victory - Firebrand",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3818,7 +3818,7 @@
         "name": "Victory - Frank West",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3829,7 +3829,7 @@
         "name": "Victory - Ghost Rider",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3840,7 +3840,7 @@
         "name": "Victory - Haggar",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3851,7 +3851,7 @@
         "name": "Victory - Hawkeye",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3860,7 +3860,7 @@
     },        {
         "name": "Victory - Hsien-Ko",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3872,7 +3872,7 @@
         "name": "Victory - Hulk",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3883,7 +3883,7 @@
         "name": "Victory - Iron Fist",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3894,7 +3894,7 @@
         "name": "Victory - Iron Man",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3916,7 +3916,7 @@
         "name": "Victory - M.O.D.O.K",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3926,7 +3926,7 @@
         "name": "Victory - Magneto",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3935,7 +3935,7 @@
     },    {
         "name": "Victory - Morrigan",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3947,7 +3947,7 @@
    {
         "name": "Victory - Nemesis T-Type",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3958,7 +3958,7 @@
     {
         "name": "Victory - Nova",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3969,7 +3969,7 @@
         "name": "Victory - Phoenix",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -3978,7 +3978,7 @@
     },    {
         "name": "Victory - Phoenix Wright",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3988,7 +3988,7 @@
     },    {
         "name": "Victory - Rocket Raccoon",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -3999,7 +3999,7 @@
     {
         "name": "Victory - Ryu",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4009,7 +4009,7 @@
     },    {
         "name": "Victory - Sentinel",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4019,7 +4019,7 @@
     },    {
         "name": "Victory - She-Hulk",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4040,7 +4040,7 @@
     {
         "name": "Victory - Spencer",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4050,7 +4050,7 @@
     },    {
         "name": "Victory - Spider-Man",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4061,7 +4061,7 @@
     {
         "name": "Victory - Storm",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4071,7 +4071,7 @@
     },    {
         "name": "Victory - Strider Hiryu",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4082,7 +4082,7 @@
     {
         "name": "Victory - Super-Skrull",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4093,7 +4093,7 @@
     {
         "name": "Victory - Taskmaster",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4103,7 +4103,7 @@
     },    {
         "name": "Victory - Thor",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4114,7 +4114,7 @@
     {
         "name": "Victory - Trish",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4125,7 +4125,7 @@
     {
         "name": "Victory - Tron Bonne",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4136,7 +4136,7 @@
         "name": "Victory -Vergil",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -4146,7 +4146,7 @@
         "name": "Victory - Viewtiful Joe",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -4157,7 +4157,7 @@
         "name": "Victory - Wesker",
         "region": "Versus Mode",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "requires": [
             "Versus Mode Key",
@@ -4166,7 +4166,7 @@
     },    {
         "name": "Victory - Wolverine",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4176,7 +4176,7 @@
     },    {
         "name": "Victory - X-23",
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],
         "region": "Versus Mode",
         "requires": [
@@ -4188,7 +4188,7 @@
         "name": "Victory - Zero",
 
         "category": [
-            "Versus Mode", "Base"
+            "Versus Mode", "Base Game"
         ],        
         "region": "Versus Mode",
         "requires": [
@@ -4198,8 +4198,6 @@
     },
     {
         "name": "Random All Hell",
-       
-        
         "place_item": [
             "Random Character X3"
         ],"category": [
